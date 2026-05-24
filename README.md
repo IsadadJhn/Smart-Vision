@@ -1,1 +1,1 @@
-There's still have bug in object_detection program
+There's a bug in object_detection program
